@@ -5,4 +5,4 @@ class MultiplyDivide:
     def divide(self, a, b):
         if b == 0:
             raise ValueError("Pembagi tidak boleh nol!")
-        return a / b
+        return a / b

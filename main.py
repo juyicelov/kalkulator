@@ -1,7 +1,7 @@
 # main.py
 
 from addition import Addition
-from subtraction import Subtraction
+from substraction import Subtraction
 from multiply_divide import MultiplyDivide
 
 def main():
